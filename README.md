@@ -1,2 +1,2 @@
 # bookbot
-boot.dev excersize
+BookBot is my first project!
